@@ -12,7 +12,7 @@
  * @tcpdf examples http://www.tcpdf.org/examples.php
  */
  
-namespace hbalkhi\tcpdf;
+namespace hbalkhi\pdf;
 
 use Yii;
 use yii\base\Component;
