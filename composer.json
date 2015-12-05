@@ -1,8 +1,8 @@
 {
-    "name": "cinghie/yii2-tcpdf",
+    "name": "hbalkhi/yii2-tcpdf",
     "description": "Yii2 TCPDF to load TCPDF libraries in a Yii2 site.",
     "keywords": ["yii2", "pdf", "TCPDF"],
-    "homepage": "https://github.com/cinghie/yii2-tcpdf",
+    "homepage": "https://github.com/hbalkhi/yii2-tcpdf",
     "type": "yii2-extension",
     "license": "BSD 3-Clause",
     "authors": [
